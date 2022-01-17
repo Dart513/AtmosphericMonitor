@@ -1,0 +1,9 @@
+{
+    "name": "Shift Expander GPIO Library",
+    "keywords": "GPIO, Expander, Shift Register",
+    "description": "Shift Expander GPIO Library for ESP8266",
+    "version": "0.0.1",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
+  

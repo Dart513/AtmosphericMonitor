@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "xlocbuf": "cpp",
+        "istream_helpers": "cpp",
+        "serstream": "cpp"
+    }
+}
